@@ -45,9 +45,10 @@
 
 ### [consumer_activity](https://github.com/KarpushinVO/consumer_activity)
 Предсказание активности и снижения активности покупателей по набору признаков. Пайплайн с несколькими классическими ML-моделями.
-
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Pipeline](https://img.shields.io/badge/ML_Pipeline-4c8eda?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 </td>
 </tr>
@@ -56,19 +57,18 @@
 
 ### [CRMIP](https://github.com/KarpushinVO/CRMIP)
 Мини-проект по поиску интерференции между добывающими и нагнетательными скважинами. Настроен на схему 2 добывающие / 2 нагнетательные.
-
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![Oil & Gas](https://img.shields.io/badge/Oil_%26_Gas-1f425f?style=flat-square)
-
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 </td>
 <td width="50%" valign="top">
 
 ### [oil_field_choice](https://github.com/KarpushinVO/oil_field_choice)
 Линейная регрессия и техника bootstrap для выбора наилучшего месторождения под разбуривание.
-
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-4c8eda?style=flat-square)
-
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 </td>
 </tr>
 </table>
