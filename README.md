@@ -5,12 +5,8 @@
 - **Визуализация и дашборды.** Строю отчёты в self-service BI: Power BI, Qlik Sense, Pix BI
 - **Продвинутая аналитика.** Анализирую данные на Python с помощью Pandas, SciPy, scikit-learn и PyTorch
 - **Регрессионные задачи.** Решаю их классическими ML-методами на Python, Pandas и scikit-learn
-
 ---
-
 ## Стек
-
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
