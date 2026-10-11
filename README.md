@@ -1,9 +1,6 @@
-[README (1).md](https://github.com/user-attachments/files/33306939/README.1.md)
 <div align="center">
 
-# Привет, я Виктор
-
-### Инженер по добыче нефти | Data Analyst | Data Scientist
+# Инженер по добыче нефти | Data Analyst | Data Scientist
 
 *Превращаю данные нефтяных месторождений и бизнеса в решения, которые работают*
 
@@ -20,9 +17,18 @@
 ## Обо мне
 
 - Работаю инженером по добыче нефти, поэтому хорошо понимаю предметную область и данные, с которыми приходится иметь дело
-- Перехожу в аналитику данных и Data Science, совмещая инженерную экспертизу с ML
+- Совмещаю инженерную экспертизу с аналитикой данных и Data Science
 - Люблю задачи, где модель должна отвечать на реальный практический вопрос: куда бурить, как меняется поведение клиентов, какая температура получится на выходе
-- Сейчас сфокусирован на практике: проекты на классическом ML, статистика, работа с данными
+
+---
+
+## Чем занимаюсь
+
+- **Контроль качества данных.** Проверяю данные на всех уровнях: в BI-системе, в витрине и в системах-источниках (PostgreSQL, ClickHouse)
+- **Визуализация и дашборды.** Строю отчёты в self-service BI: Power BI, Qlik Sense, Pix BI
+- **Продвинутая аналитика.** Анализирую данные на Python с помощью Pandas, SciPy, scikit-learn и PyTorch
+- **Регрессионные задачи.** Решаю их классическими ML-методами на Python, Pandas и scikit-learn
+- **DS-проекты полного цикла.** Веду задачу самостоятельно: формулирую проблему, проектирую решение, выбираю признаки, тип задачи, бизнес- и технические метрики, подбираю модели, внедряю результат и оцениваю его эффект
 
 ---
 
@@ -34,8 +40,17 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Qlik Sense](https://img.shields.io/badge/Qlik_Sense-009848?style=for-the-badge&logo=qlik&logoColor=white)
+![Pix BI](https://img.shields.io/badge/Pix_BI-5b6770?style=for-the-badge)
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
@@ -43,9 +58,11 @@
 
 | Направление | Что использую |
 |---|---|
-| **Анализ данных** | EDA, очистка и подготовка данных, визуализация |
-| **Machine Learning** | Линейные модели, ансамбли, пайплайны с несколькими моделями |
-| **Статистика** | Bootstrap, доверительные интервалы, оценка рисков |
+| **Анализ данных** | EDA, очистка и подготовка данных, проверка качества, визуализация |
+| **BI и визуализация** | Power BI, Qlik Sense, Pix BI |
+| **Базы данных** | PostgreSQL, ClickHouse |
+| **Machine Learning** | Classic ML для регрессии, пайплайны с несколькими моделями, PyTorch |
+| **Статистика** | SciPy, bootstrap, доверительные интервалы, оценка рисков |
 | **Предметная область** | Добыча нефти, взаимовлияние скважин, выбор месторождений |
 
 ---
@@ -94,19 +111,6 @@
 </td>
 </tr>
 </table>
-
----
-
-## GitHub-статистика
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=KarpushinVO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarpushinVO&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KarpushinVO&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
