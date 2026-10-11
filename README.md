@@ -57,7 +57,6 @@
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Pipeline](https://img.shields.io/badge/ML_Pipeline-4c8eda?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
 </td>
 </tr>
@@ -87,7 +86,6 @@
 
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-4c8eda?style=flat-square)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 </td>
@@ -100,9 +98,7 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-KarpushinVO-181717?style=for-the-badge&logo=github)](https://github.com/KarpushinVO)
-<!-- Раскомментируйте и подставьте свои контакты:
-[![Telegram](https://img.shields.io/badge/Telegram-@username-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/username)
-[![Email](https://img.shields.io/badge/Email-you@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
 -->
 
