@@ -1,7 +1,6 @@
 <div align="center">
 
-# Текущая роль: Контроль качества данных
-Data quality Control | Data Analyst | Data Scientist  
+# Data quality Control| BI-Analyst | Data Analyst | Data Scientist  
 
 <img src="https://img.shields.io/badge/Нефтегаз-domain_expert-1f425f?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Data_Analytics-4c8eda?style=for-the-badge" />
