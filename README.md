@@ -114,6 +114,6 @@ Data quality Control | Data Analyst | Data Scientist
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
 -->
 
-*Открыт к интересным задачам на стыке нефтегаза и Data Science*
+*Открыт к интересным задачам на стыке Анализа данных, bi-аналитики и Data Science*
 
 </div>
