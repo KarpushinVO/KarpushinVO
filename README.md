@@ -93,12 +93,6 @@
 </table>
 ---
 
-## Связаться
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-KarpushinVO-181717?style=for-the-badge&logo=github)](https://github.com/KarpushinVO)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
 -->
 
