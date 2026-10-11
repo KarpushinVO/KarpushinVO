@@ -2,15 +2,7 @@
 
 ## Data quality Control | BI-Analyst | Data Analyst | Data Scientist  
 
-<img src="https://img.shields.io/badge/Нефтегаз-domain_expert-1f425f?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data_Analytics-4c8eda?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Machine_Learning-8a63d2?style=for-the-badge" />
-
-</div>
-
----
-
-## Обо мне
+### Обо мне
 
 - **Контроль качества данных.** Проверяю данные на всех уровнях: в BI-системе, в витрине и в системах-источниках (PostgreSQL, ClickHouse)
 - **Визуализация и дашборды.** Строю отчёты в self-service BI: Power BI, Qlik Sense, Pix BI
@@ -43,17 +35,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
-
-| Направление | Что использую |
-|---|---|
-| **Анализ данных** | EDA, очистка и подготовка данных, проверка качества, визуализация |
-| **BI и визуализация** | Power BI, Qlik Sense, Pix BI |
-| **Базы данных** | PostgreSQL, ClickHouse |
-| **Machine Learning** | Classic ML, пайплайны с несколькими моделями, PyTorch |
-| **Статистика** | SciPy, bootstrap, доверительные интервалы, оценка рисков |
-| **Предметная область** | Добыча нефти, Разработка и эксплуатация нефтяных месторождений: взаимовлияние скважин, выбор месторождений |
-
----
 
 ## Избранные проекты
 
